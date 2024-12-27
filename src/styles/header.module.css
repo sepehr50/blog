@@ -1,0 +1,21 @@
+.navContainer {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    list-style: none;
+}
+
+.navContainer li button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.active {
+    color: crimson;
+}

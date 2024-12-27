@@ -1,0 +1,8 @@
+.container {
+    background-color: darkslateblue;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
